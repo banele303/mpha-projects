@@ -1,5 +1,11 @@
 import React from 'react'
 
+import Seo from './components/Seo.js'
+import Footer from './components/Footer';
+import Head from "next/head";
+import Navbar from './components/Navbar';
+
+import Calendly from './components/calendly';
 
 const servicesSeo = () => {
   return (
